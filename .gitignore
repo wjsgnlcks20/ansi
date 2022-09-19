@@ -9,8 +9,8 @@
 
 ### Above combination will ignore all files without extension ### 
 
-*.dSYM
-.vscode
+/*.dSYM/
+/.vscode
 \githubtoken.txt
 *.exe
 *.manifest
